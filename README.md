@@ -222,9 +222,16 @@ npm run test:e2e
 Se incluyen capturas de:
 
 * Vista principal
+![Vista principal](docs/images/inicio.png)
+
 * Filtro por categoría
+![Filtro](docs/images/filtro.png)
+
 * Productos favoritos
+![Favoritos](docs/images/favoritos.png)
+
 * Modal de detalle
+![Modal](docs/images/modal.png)
 
 ---
 
@@ -232,7 +239,7 @@ Se incluyen capturas de:
 ## 👨‍💻 Autor
 Proyecto desarrollado por:
 
-Cristián Hernández
+Cristián Hernández Muñoz
 
 Curso: Desarrollo de aplicaciones front-end con Vue.js
 Modulo 7
