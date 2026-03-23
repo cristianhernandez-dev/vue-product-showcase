@@ -35,6 +35,15 @@ Aplicación web desarrollada con Vue.js que permite visualizar un catálogo de p
 El proyecto está organizado en módulos para mantener una estructura limpia y escalable:
 
 ```
+vue-product-showcase/
+│
+├── docs/
+│   └── images/
+│       ├── inicio.png
+│       ├── filtro.png
+│       ├── favoritos.png
+│       └── modal.png
+│
 src/
 │
 ├── assets/
