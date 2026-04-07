@@ -37,6 +37,10 @@ El proyecto está organizado en módulos para mantener una estructura limpia y e
 ```
 vue-product-showcase/
 │
+.github
+└── workflows
+│    └── deploy.yml
+│
 ├── docs/
 │   └── images/
 │       ├── inicio.png
